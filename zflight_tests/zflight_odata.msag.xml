@@ -19,6 +19,12 @@
      <MSGNR>001</MSGNR>
      <TEXT>Flight schedule not found</TEXT>
     </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZFLIGHT_ODATA</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Flights not found for the schedule</TEXT>
+    </T100>
    </T100>
   </asx:values>
  </asx:abap>
